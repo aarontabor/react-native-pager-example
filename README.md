@@ -10,3 +10,7 @@ This app is built using expo. Run the following commands to build and run:
 
     npm install
     expo start
+
+# Example
+https://user-images.githubusercontent.com/4442218/117462449-12dc2480-af25-11eb-85c4-7731eca10326.mp4
+
